@@ -1,12 +1,12 @@
 import EntradaDado from "../Components/EntradaDado"
 
 function App() {
+  return <div>
+    < EntradaDado />
+  </div>
+  }
 
-  return (
-    <>
-    <EntradaDado />
-    </>
-  )
-}
+
+
 
 export default App
